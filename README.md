@@ -5,7 +5,7 @@ Atualmente estudo e desenvolvo projetos com foco em **Java**, **Python** e tecno
 
 🛠️ Estou sempre em busca de novos desafios que me permitam crescer como desenvolvedor e aprender novas ferramentas.
 
-📚 No momento, estou me aprofundando em [adicione aqui o que está estudando – ex: estruturas de dados, testes, frameworks etc].
+📚 No momento, estou me aprofundando em Arquitetura de software e paradigmas de programação.
 
 🎯 Meu objetivo é me tornar um desenvolvedor back-end sólido, contribuindo para projetos que façam a diferença e que exijam pensamento crítico e colaboração.
 
