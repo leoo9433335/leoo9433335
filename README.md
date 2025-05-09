@@ -1,6 +1,17 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Hi!+I'm+Leonardo%F0%9F%91%8B%F0%9F%8F%BE;i'm+dev%F0%9F%92%BB)](https://git.io/typing-svg)
+  Leonardo Duarte da Silva
 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leonardo-duarte-da-silva-183465214/)
+Olá! Me chamo *Leonardo* e sou apaixonado por tecnologia e programação. 🚀  
+Atualmente estudo e desenvolvo projetos com foco em **Java**, **Python** e tecnologias web como **HTML** e **CSS**.  
+
+🛠️ Estou sempre em busca de novos desafios que me permitam crescer como desenvolvedor e aprender novas ferramentas.
+
+📚 No momento, estou me aprofundando em [adicione aqui o que está estudando – ex: estruturas de dados, testes, frameworks etc].
+
+🎯 Meu objetivo é me tornar um desenvolvedor back-end sólido, contribuindo para projetos que façam a diferença e que exijam pensamento crítico e colaboração.
+
+
+  
+ [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leonardo-duarte-da-silva-183465214/)
 [![Instagram](https://img.shields.io/badge/Instagram-345?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/leo_duarte_5/)
 [![Gmail](https://img.shields.io/badge/Gmail-110?style=for-the-badge&logo=gmail&logoColor=white)](mailto:silvaleonardoduarte2222@gmail.com)
 
